@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="index.css">
+    <title>ogbono recipe</title>
+</head>
+<body>
+    <div class="board">
+<img src="Ogbono.jpg" alt="">
+<H1>Simple Ogbono Recipe</H1> <br>
+<p>Ogbono soup is a Nigerian dish made with ground dry ogbono seeds. It is made with considerable local variation. According to research by Chris Chinaka and J.C. Obiefuna, ogbono is an indigenous forest tree associated with plants classified as 'non-timber forest products.</p>
+<br><br>
+
+<div class="first">
+<h3>Preparation time</h3>
+<ul class="list">
+    <li class="one">
+        Total: 50 minutes
+    </li>
+    <li class="two">Cooking time: 35 minutes</li>
+    <li class="three">Prep time: 15 minutes</li>
+</ul>
+</div>
+<h2 class="curry">
+    Ingredients
+</h2>
+<ul>
+    <li>Ogbono seeds (ground) – 2 tablespoons</li>
+<li>Crayfish (ground) – 1 teaspoon</li>
+<li>Stockfish or dried fish – 50g</li>
+<li>Meat – 200g</li>
+<li>Palm oil – 3 tablespoons</li>
+<li>Water or meat stock – 2 cups</li>
+<li>Onion</li>
+<li>Salt</li>
+<li>Seasoning cube</li> 
+</ul> 
+ <hr>
+<h2 class="cook"> 
+    Instructions
+</h2>
+<ol>
+<li>Wash and cut the meat into bite-sized pieces, then boil with a pinch of salt, chopped onion, seasoning cube, and a little water until tender (about 20–30 minutes). Soak the stockfish or dried fish in warm water for 10–15 minutes, then tear into pieces.</li> <br>
+<li>Grind the ogbono seeds into a fine powder (if not already ground) and mix with 2–3 tablespoons of water to form a smooth paste.</li> <br>
+<li>Heat palm oil in a medium pot over medium heat, add the ogbono paste, and stir continuously for 2–3 minutes until the oil and ogbono combine.</li> <br>
+<li>Gradually add 2 cups of water or meat stock while stirring to prevent lumps from forming.</li> <br>
+<li>Add the cooked meat, stockfish or dried fish, crayfish, and blended pepper, then simmer on low heat for 10–15 minutes.</li> <br>
+<li>Stir in the washed spinach, ugu, or bitterleaf and cook for 3–5 minutes until the vegetables are tender but still vibrant.</li> <br>
+<li> Taste the soup, adjust with salt or seasoning cube if needed, and simmer gently for 2 more minutes before serving.</li>
+</ol>
+<hr>
+<h2 class="content">Nutrition</h2>
+ <table>
+    <tr>
+    <td>Calories</td>
+    <td>350 kcal</td>
+    </tr>
+    <tr>
+        <td>Protein</td>
+        <td>25 g</td>
+    </tr>
+    <tr>
+        <td>Fat</td>
+        <td>20 g</td>
+    </tr>
+    <tr>
+        <td>Carbohydrates</td>
+        <td>5 g</td>
+    </tr>
+    <tr>
+        <td>Fiber</td>
+        <td>3 g</td>
+    </tr>
+    <tr>
+        <td>Sodium</td>
+        <td>600 mg</td>
+    </tr>
+ </table>
+    </div>
+</body>
+</html>
